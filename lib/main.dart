@@ -13,7 +13,7 @@ class MainApp extends StatefulWidget {
 
 class _MainAppState extends State<MainApp> {
   String texto = 'Hola';
-  Color colorFondo = Color.fromARGB(255, 0, 0, 0);
+  Color colorFondo = Color.fromARGB(255, 255, 255, 255);
   double tamanoLetra = 32;
 
   @override
